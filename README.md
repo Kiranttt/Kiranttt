@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kiranttt
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in Cloud services and devops tools
+- 🌱 I’m currently practicing hands on experiencing with projects
 - 📫 How to reach me @kirant75411@gmail.com
 
 <!---
